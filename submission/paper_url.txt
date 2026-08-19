@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+Research_Paper_Link = https://docs.google.com/document/d/1iS5dYwhs-F15QDVL8iZS7YRJo5hPXhPmAQ-9pWUQsYQ/edit?usp=sharing
